@@ -1,0 +1,14 @@
+{
+  "name": "eustaquia_site",
+  "private": true,
+  "author": "Eustaquia",
+  "devDependencies": {
+    "sass": "^0.5.0"
+  },
+  "dependencies": {
+
+  },
+  "scripts": {
+    "sass": "sass --watch src/styles.scss:src/styles.css"
+  }
+}
